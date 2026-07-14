@@ -1,0 +1,75 @@
+# UI
+streamlit
+
+# Data Processing
+pandas
+numpy
+python-dateutil
+
+# Machine Learning
+scikit-learn
+joblib
+scipy
+
+# Visualization
+matplotlib
+plotly
+
+# LLM & Agent Framework
+langchain
+langgraph
+langchain-community
+langchain-core
+
+# Gemini
+google-generativeai
+
+# Embeddings
+sentence-transformers
+transformers
+torch
+
+# Vector Database
+chromadb
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# Environment Variables
+python-dotenv
+
+# API
+requests
+
+# Cryptography
+cryptography
+
+# File Handling
+openpyxl
+python-multipart
+
+# Utilities
+tqdm
+
+# Optional Deployment
+uvicorn
+fastapi
+
+# Logging
+loguru
+
+# Serialization
+pickle-mixin
+
+# JSON
+orjson
+
+# Validation
+pydantic
+
+# Network Analysis (optional)
+networkx
+
+# Caching
+diskcache
